@@ -9,9 +9,9 @@ html {
 }
 
 body {
-  background: #010A13;
+  background: #FFFFFF;
   margin-bottom: 65px;
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'Varela Round', sans-serif;
 }
 
 .row-nav {
@@ -20,26 +20,59 @@ body {
 }
 
 .row-one {
-  margin: 10px 0px 5px 0px;
+  margin: 10px 0px 20px 0px;
   font-size: 50px;
-  color: #FDFEFE;
+  color: #000000;
+}
+
+.row-two {
+  margin: 0px 0px 30px 0px;
+  background: #D5F5E3;
+  border-radius: 25px;
+}
+
+.row-four {
+  margin: 0px 0px 30px 0px;
+  background: #D5F5E3;
+  border-radius: 25px;
 }
 
 .jumbotron {
-  background: #010A13;
+  background: #FFFFFF;
 }
 
 .lead {
-  font-size: 20px;
+  font-size: 30px;
+  color: #34C859;
+}
+
+h5 {
+  font-size: 40px;
+  color: #000000;
+}
+
+h6 {
+  font-size: 30px;
+  color: #34C859;
 }
 
 .img-thumbnail {
-  background: #010A13;
+  background: #FFFFFF;
 }
 
-.card-body {
-  background: #010A13;
-  color: #FDFEFE;
+.card {
+  background: #D5F5E3;
+}
+
+.card-custom {
+  background: #FFFFFF;
+}
+
+.card-text {
+  /* background: #34C859; */
+  color: #34C859;
+  font-size: 26px;
+  padding: 10px 10px 10px 10px;
 }
 
 .fa {
@@ -63,10 +96,10 @@ body {
   height: 65px;
   line-height: 55px;
   width: 100%;
-  background-color: #010A13;
-  color: #FDFEFE;
+  background-color: #FFFFFF;
+  color: #000000;
   text-align: center;
   font-size: 14px;
-  border-top: 5px solid #010A13;
+  border-top: 5px solid #FFFFFF;
   margin: 20px 0px 0px 0px;
 }
