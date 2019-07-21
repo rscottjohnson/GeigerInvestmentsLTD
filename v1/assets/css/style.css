@@ -11,7 +11,7 @@ html {
 body {
   background: #FFFFFF;
   margin-bottom: 65px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Varela Round', sans-serif;
 }
 
 .row-nav {
@@ -20,28 +20,20 @@ body {
 }
 
 .row-one {
-  margin: 10px 0px 10px 0px;
+  margin: 10px 0px 20px 0px;
   font-size: 50px;
   color: #000000;
 }
 
-.logo {
-  margin: auto;
-}
-
-.tagline {
-  margin: auto;
-}
-
 .row-two {
   margin: 0px 0px 30px 0px;
-  background: #D6EAF8;
+  background: #D5F5E3;
   border-radius: 25px;
 }
 
 .row-four {
   margin: 0px 0px 30px 0px;
-  background: #D6EAF8;
+  background: #D5F5E3;
   border-radius: 25px;
 }
 
@@ -50,8 +42,8 @@ body {
 }
 
 .lead {
-  font-size: 50px;
-  color: #166ABF;
+  font-size: 30px;
+  color: #34C859;
 }
 
 h5 {
@@ -61,7 +53,7 @@ h5 {
 
 h6 {
   font-size: 30px;
-  color: #166ABF;
+  color: #34C859;
 }
 
 .img-thumbnail {
@@ -69,7 +61,7 @@ h6 {
 }
 
 .card {
-  background: #D6EAF8;
+  background: #D5F5E3;
 }
 
 .card-custom {
@@ -77,8 +69,8 @@ h6 {
 }
 
 .card-text {
-  /* background: #166ABF; */
-  color: #166ABF;
+  /* background: #34C859; */
+  color: #34C859;
   font-size: 26px;
   padding: 10px 10px 10px 10px;
 }
